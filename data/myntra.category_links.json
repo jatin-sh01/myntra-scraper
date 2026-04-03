@@ -1,0 +1,4160 @@
+[{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3a8"
+  },
+  "text": "Myntra Insider New",
+  "href": "https://www.myntra.com/myntrainsider?cache=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3a9"
+  },
+  "text": "Gift Card",
+  "href": "https://www.myntra.com/giftcard",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3aa"
+  },
+  "text": "Track Orders",
+  "href": "https://www.myntra.com/my/orders",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3ab"
+  },
+  "text": "Contact Us",
+  "href": "https://www.myntra.com/contactus",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3ac"
+  },
+  "text": "Men",
+  "href": "https://www.myntra.com/shop/men",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3ad"
+  },
+  "text": "Topwear",
+  "href": "https://www.myntra.com/men-topwear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3ae"
+  },
+  "text": "T-Shirts",
+  "href": "https://www.myntra.com/men-tshirts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3af"
+  },
+  "text": "Casual Shirts",
+  "href": "https://www.myntra.com/men-casual-shirts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3b0"
+  },
+  "text": "Formal Shirts",
+  "href": "https://www.myntra.com/men-formal-shirts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3b1"
+  },
+  "text": "Sweatshirts",
+  "href": "https://www.myntra.com/men-sweatshirts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3b2"
+  },
+  "text": "Sweaters",
+  "href": "https://www.myntra.com/men-sweaters",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3b3"
+  },
+  "text": "Jackets",
+  "href": "https://www.myntra.com/men-jackets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3b4"
+  },
+  "text": "Blazers & Coats",
+  "href": "https://www.myntra.com/men-blazers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3b5"
+  },
+  "text": "Suits",
+  "href": "https://www.myntra.com/men-suits",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3b6"
+  },
+  "text": "Rain Jackets",
+  "href": "https://www.myntra.com/rain-jacket",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3b7"
+  },
+  "text": "Indian & Festive Wear",
+  "href": "https://www.myntra.com/men-ethnic-wear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3b8"
+  },
+  "text": "Kurtas & Kurta Sets",
+  "href": "https://www.myntra.com/men-kurtas",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3b9"
+  },
+  "text": "Sherwanis",
+  "href": "https://www.myntra.com/sherwani",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3ba"
+  },
+  "text": "Nehru Jackets",
+  "href": "https://www.myntra.com/nehru-jackets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3bb"
+  },
+  "text": "Dhotis",
+  "href": "https://www.myntra.com/dhoti",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3bc"
+  },
+  "text": "Bottomwear",
+  "href": "https://www.myntra.com/men-bottomwear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3bd"
+  },
+  "text": "Jeans",
+  "href": "https://www.myntra.com/men-jeans",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3be"
+  },
+  "text": "Casual Trousers",
+  "href": "https://www.myntra.com/men-casual-trousers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3bf"
+  },
+  "text": "Formal Trousers",
+  "href": "https://www.myntra.com/men-formal-trousers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3c0"
+  },
+  "text": "Shorts",
+  "href": "https://www.myntra.com/mens-shorts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3c1"
+  },
+  "text": "Track Pants & Joggers",
+  "href": "https://www.myntra.com/men-trackpants",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3c2"
+  },
+  "text": "Innerwear & Sleepwear",
+  "href": "https://www.myntra.com/men-innerwear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3c3"
+  },
+  "text": "Briefs & Trunks",
+  "href": "https://www.myntra.com/men-briefs-and-trunks",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3c4"
+  },
+  "text": "Boxers",
+  "href": "https://www.myntra.com/men-boxers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3c5"
+  },
+  "text": "Vests",
+  "href": "https://www.myntra.com/men-innerwear-vests",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3c6"
+  },
+  "text": "Sleepwear & Loungewear",
+  "href": "https://www.myntra.com/men-nightwear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3c7"
+  },
+  "text": "Thermals",
+  "href": "https://www.myntra.com/men-thermals",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3c8"
+  },
+  "text": "Plus Size",
+  "href": "https://www.myntra.com/plus-size-for-men",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3c9"
+  },
+  "text": "Footwear",
+  "href": "https://www.myntra.com/men-footwear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3ca"
+  },
+  "text": "Casual Shoes",
+  "href": "https://www.myntra.com/men-casual-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3cb"
+  },
+  "text": "Sports Shoes",
+  "href": "https://www.myntra.com/men-sports-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3cc"
+  },
+  "text": "Formal Shoes",
+  "href": "https://www.myntra.com/men-formal-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3cd"
+  },
+  "text": "Sneakers",
+  "href": "https://www.myntra.com/men-sneakers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3ce"
+  },
+  "text": "Sandals & Floaters",
+  "href": "https://www.myntra.com/men-sandals",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3cf"
+  },
+  "text": "Flip Flops",
+  "href": "https://www.myntra.com/men-flip-flops",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3d0"
+  },
+  "text": "Socks",
+  "href": "https://www.myntra.com/men-socks",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3d1"
+  },
+  "text": "Personal Care & Grooming",
+  "href": "https://www.myntra.com/men-personal-care",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3d2"
+  },
+  "text": "Sunglasses & Frames",
+  "href": "https://www.myntra.com/men-sunglasses",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3d3"
+  },
+  "text": "Watches",
+  "href": "https://www.myntra.com/mens-watches",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3d4"
+  },
+  "text": "Sports & Active Wear",
+  "href": "https://www.myntra.com/men-sports-wear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3d5"
+  },
+  "text": "Sports Shoes",
+  "href": "https://www.myntra.com/men-sports-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3d6"
+  },
+  "text": "Sports Sandals",
+  "href": "https://www.myntra.com/men-sports-sandals",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3d7"
+  },
+  "text": "Active T-Shirts",
+  "href": "https://www.myntra.com/men-sports-wear-tshirts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3d8"
+  },
+  "text": "Track Pants & Shorts",
+  "href": "https://www.myntra.com/men-trackpants-shorts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3d9"
+  },
+  "text": "Tracksuits",
+  "href": "https://www.myntra.com/men-tracksuits",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3da"
+  },
+  "text": "Jackets & Sweatshirts",
+  "href": "https://www.myntra.com/men-sports-jackets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3db"
+  },
+  "text": "Sports Accessories",
+  "href": "https://www.myntra.com/men-sports-accessories",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3dc"
+  },
+  "text": "Swimwear",
+  "href": "https://www.myntra.com/men-swimwear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3dd"
+  },
+  "text": "Gadgets",
+  "href": "https://www.myntra.com/gadgets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3de"
+  },
+  "text": "Smart Wearables",
+  "href": "https://www.myntra.com/smart-wearables",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3df"
+  },
+  "text": "Fitness Gadgets",
+  "href": "https://www.myntra.com/smart-wearables?f=Categories%3AFitness%20Bands",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3e0"
+  },
+  "text": "Headphones",
+  "href": "https://www.myntra.com/headphones",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3e1"
+  },
+  "text": "Speakers",
+  "href": "https://www.myntra.com/speakers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3e2"
+  },
+  "text": "Fashion Accessories",
+  "href": "https://www.myntra.com/men-accessories",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3e3"
+  },
+  "text": "Wallets",
+  "href": "https://www.myntra.com/men-wallets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3e4"
+  },
+  "text": "Belts",
+  "href": "https://www.myntra.com/men-belts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3e5"
+  },
+  "text": "Perfumes & Body Mists",
+  "href": "https://www.myntra.com/perfumes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3e6"
+  },
+  "text": "Trimmers",
+  "href": "https://www.myntra.com/trimmer",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3e7"
+  },
+  "text": "Deodorants",
+  "href": "https://www.myntra.com/deodorant",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3e8"
+  },
+  "text": "Ties, Cufflinks & Pocket Squares",
+  "href": "https://www.myntra.com/men-belts-ties",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3e9"
+  },
+  "text": "Accessory Gift Sets",
+  "href": "https://www.myntra.com/men-accessory-gift-set",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3ea"
+  },
+  "text": "Caps & Hats",
+  "href": "https://www.myntra.com/men-caps",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3eb"
+  },
+  "text": "Mufflers, Scarves & Gloves",
+  "href": "https://www.myntra.com/men-gloves-mufflers-scarves",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3ec"
+  },
+  "text": "Phone Cases",
+  "href": "https://www.myntra.com/mobile-phone-cases",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3ed"
+  },
+  "text": "Rings & Wristwear",
+  "href": "https://www.myntra.com/men-jewellery",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3ee"
+  },
+  "text": "Helmets",
+  "href": "https://www.myntra.com/helmets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3ef"
+  },
+  "text": "Bags & Backpacks",
+  "href": "https://www.myntra.com/men-bags-backpacks",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3f0"
+  },
+  "text": "Luggages & Trolleys",
+  "href": "https://www.myntra.com/trolley-bags",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3f1"
+  },
+  "text": "Women",
+  "href": "https://www.myntra.com/shop/women",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3f2"
+  },
+  "text": "Indian & Fusion Wear",
+  "href": "https://www.myntra.com/fusion-wear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3f3"
+  },
+  "text": "Kurtas & Suits",
+  "href": "https://www.myntra.com/women-kurtas-kurtis-suits",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3f4"
+  },
+  "text": "Kurtis, Tunics & Tops",
+  "href": "https://www.myntra.com/ethnic-tops",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3f5"
+  },
+  "text": "Sarees",
+  "href": "https://www.myntra.com/saree",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3f6"
+  },
+  "text": "Ethnic Wear",
+  "href": "https://www.myntra.com/women-ethnic-wear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3f7"
+  },
+  "text": "Leggings, Salwars & Churidars",
+  "href": "https://www.myntra.com/women-ethnic-bottomwear?f=categories%3AChuridar%2CLeggings%2CSalwar",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3f8"
+  },
+  "text": "Skirts & Palazzos",
+  "href": "https://www.myntra.com/skirts-palazzos",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3f9"
+  },
+  "text": "Dress Materials",
+  "href": "https://www.myntra.com/dress-material",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3fa"
+  },
+  "text": "Lehenga Cholis",
+  "href": "https://www.myntra.com/lehenga-choli",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3fb"
+  },
+  "text": "Dupattas & Shawls",
+  "href": "https://www.myntra.com/dupatta-shawl",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3fc"
+  },
+  "text": "Jackets",
+  "href": "https://www.myntra.com/women-jackets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3fd"
+  },
+  "text": "Belts, Scarves & More",
+  "href": "https://www.myntra.com/women-accessories",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3fe"
+  },
+  "text": "Watches & Wearables",
+  "href": "https://www.myntra.com/women-watches",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc3ff"
+  },
+  "text": "Western Wear",
+  "href": "https://www.myntra.com/womens-western-wear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc400"
+  },
+  "text": "Dresses",
+  "href": "https://www.myntra.com/dresses?f=Gender%3Amen%20women%2Cwomen",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc401"
+  },
+  "text": "Tops",
+  "href": "https://www.myntra.com/tops",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc402"
+  },
+  "text": "Tshirts",
+  "href": "https://www.myntra.com/myntra-fashion-store?f=Categories%3ATshirts%3A%3AGender%3Amen%20women%2Cwomen",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc403"
+  },
+  "text": "Jeans",
+  "href": "https://www.myntra.com/women-jeans",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc404"
+  },
+  "text": "Trousers & Capris",
+  "href": "https://www.myntra.com/women-trousers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc405"
+  },
+  "text": "Shorts & Skirts",
+  "href": "https://www.myntra.com/women-shorts-skirts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc406"
+  },
+  "text": "Co-ords",
+  "href": "https://www.myntra.com/myntra-fashion-store?f=Categories%3AClothing%20Set%2CCo-Ords%3A%3AGender%3Amen%20women%2Cwomen",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc407"
+  },
+  "text": "Playsuits",
+  "href": "https://www.myntra.com/playsuit?f=Gender%3Amen%20women%2Cwomen",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc408"
+  },
+  "text": "Jumpsuits",
+  "href": "https://www.myntra.com/jumpsuits?f=Gender%3Amen%20women%2Cwomen",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc409"
+  },
+  "text": "Shrugs",
+  "href": "https://www.myntra.com/women-shrugs",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc40a"
+  },
+  "text": "Sweaters & Sweatshirts",
+  "href": "https://www.myntra.com/women-sweaters-sweatshirts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc40b"
+  },
+  "text": "Jackets & Coats",
+  "href": "https://www.myntra.com/women-jackets-coats",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc40c"
+  },
+  "text": "Blazers & Waistcoats",
+  "href": "https://www.myntra.com/women-blazers-waistcoats",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc40d"
+  },
+  "text": "Plus Size",
+  "href": "https://www.myntra.com/plus-size-for-women",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc40e"
+  },
+  "text": "Maternity",
+  "href": "https://www.myntra.com/myntra-fashion-store?f=Categories%3ACamisoles%2CChuridar%2CDresses%2CHarem%20Pants%2CJeans%2CKurta%20Sets%2CKurtas%2CKurtis%2CLeggings%2CLounge%20Tshirts%2CNightdress%2CPalazzos%2CShirts%2CShrug%2CSkirts%2CTops%2CTrack%20Pants%2CTrousers%2CTshirts%2CTunics%3A%3AGender%3Amen%20women%2Cwomen%3A%3AOccasion%3AMaternity",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc40f"
+  },
+  "text": "Sunglasses & Frames",
+  "href": "https://www.myntra.com/women-sunglasses",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc410"
+  },
+  "text": "Footwear",
+  "href": "https://www.myntra.com/women-footwear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc411"
+  },
+  "text": "Flats",
+  "href": "https://www.myntra.com/flats",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc412"
+  },
+  "text": "Casual Shoes",
+  "href": "https://www.myntra.com/women-casual-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc413"
+  },
+  "text": "Heels",
+  "href": "https://www.myntra.com/women-heels",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc414"
+  },
+  "text": "Boots",
+  "href": "https://www.myntra.com/women-boots-menu",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc415"
+  },
+  "text": "Sports Shoes & Floaters",
+  "href": "https://www.myntra.com/women-sports-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc416"
+  },
+  "text": "Sports & Active Wear",
+  "href": "https://www.myntra.com/women-sportswear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc417"
+  },
+  "text": "Clothing",
+  "href": "https://www.myntra.com/women-sportswear-clothing",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc418"
+  },
+  "text": "Footwear",
+  "href": "https://www.myntra.com/women-sports-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc419"
+  },
+  "text": "Sports Accessories",
+  "href": "https://www.myntra.com/women-sports-accessories",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc41a"
+  },
+  "text": "Sports Equipment",
+  "href": "https://www.myntra.com/women-sports-equipments",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc41b"
+  },
+  "text": "Lingerie & Sleepwear",
+  "href": "https://www.myntra.com/lingerie-and-loungewear1",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc41c"
+  },
+  "text": "Bra",
+  "href": "https://www.myntra.com/bra",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc41d"
+  },
+  "text": "Briefs",
+  "href": "https://www.myntra.com/women-briefs",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc41e"
+  },
+  "text": "Shapewear",
+  "href": "https://www.myntra.com/women-clothing-shapewear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc41f"
+  },
+  "text": "Sleepwear & Loungewear",
+  "href": "https://www.myntra.com/women-loungewear-and-nightwear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc420"
+  },
+  "text": "Swimwear",
+  "href": "https://www.myntra.com/women-swimwear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc421"
+  },
+  "text": "Camisoles & Thermals",
+  "href": "https://www.myntra.com/camisoles-and-thermals",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc422"
+  },
+  "text": "Beauty & Personal Care",
+  "href": "https://www.myntra.com/women-personal-care",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc423"
+  },
+  "text": "Makeup",
+  "href": "https://www.myntra.com/makeup",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc424"
+  },
+  "text": "Skincare",
+  "href": "https://www.myntra.com/skin-care?f=gender%3Amen%20women%2Cwomen",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc425"
+  },
+  "text": "Premium Beauty",
+  "href": "https://www.myntra.com/women-personal-care?f=brand%3ABobbi%20Brown%2CBvlgari%2CCalvin%20Klein%2CClinique%2CDAVIDOFF%2CDermalogica%2CForest%20Essentials%2CKAMA%20AYURVEDA%2CSalvatore%20Ferragamo",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc426"
+  },
+  "text": "Lipsticks",
+  "href": "https://www.myntra.com/lipstick",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc427"
+  },
+  "text": "Fragrances",
+  "href": "https://www.myntra.com/women-perfumes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc428"
+  },
+  "text": "Gadgets",
+  "href": "https://www.myntra.com/gadgets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc429"
+  },
+  "text": "Smart Wearables",
+  "href": "https://www.myntra.com/smart-wearables",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc42a"
+  },
+  "text": "Fitness Gadgets",
+  "href": "https://www.myntra.com/smart-wearables?f=Categories%3AFitness%20Bands",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc42b"
+  },
+  "text": "Headphones",
+  "href": "https://www.myntra.com/headphones",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc42c"
+  },
+  "text": "Speakers",
+  "href": "https://www.myntra.com/speakers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc42d"
+  },
+  "text": "Jewellery",
+  "href": "https://www.myntra.com/women-jewellery",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc42e"
+  },
+  "text": "Fashion Jewellery",
+  "href": "https://www.myntra.com/fashion-jewellery",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc42f"
+  },
+  "text": "Fine Jewellery",
+  "href": "https://www.myntra.com/fine-jewellery",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc430"
+  },
+  "text": "Earrings",
+  "href": "https://www.myntra.com/earrings",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc431"
+  },
+  "text": "Backpacks",
+  "href": "https://www.myntra.com/backpacks-for-women",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc432"
+  },
+  "text": "Handbags, Bags & Wallets",
+  "href": "https://www.myntra.com/handbags-and-bags",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc433"
+  },
+  "text": "Luggages & Trolleys",
+  "href": "https://www.myntra.com/trolley-bags",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc434"
+  },
+  "text": "Kids",
+  "href": "https://www.myntra.com/shop/kids",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc435"
+  },
+  "text": "Boys Clothing",
+  "href": "https://www.myntra.com/boy",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc436"
+  },
+  "text": "T-Shirts",
+  "href": "https://www.myntra.com/boy-tshirts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc437"
+  },
+  "text": "Shirts",
+  "href": "https://www.myntra.com/boy-shirts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc438"
+  },
+  "text": "Shorts",
+  "href": "https://www.myntra.com/boy-shorts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc439"
+  },
+  "text": "Jeans",
+  "href": "https://www.myntra.com/boy-jeans",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc43a"
+  },
+  "text": "Trousers",
+  "href": "https://www.myntra.com/boy-trousers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc43b"
+  },
+  "text": "Clothing Sets",
+  "href": "https://www.myntra.com/boy-clothing-sets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc43c"
+  },
+  "text": "Ethnic Wear",
+  "href": "https://www.myntra.com/boy-ethnic-wear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc43d"
+  },
+  "text": "Track Pants & Pyjamas",
+  "href": "https://www.myntra.com/boy-trackpants",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc43e"
+  },
+  "text": "Jacket, Sweater & Sweatshirts",
+  "href": "https://www.myntra.com/boy-winter-wear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc43f"
+  },
+  "text": "Party Wear",
+  "href": "https://www.myntra.com/boy-party-wear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc440"
+  },
+  "text": "Innerwear & Thermals",
+  "href": "https://www.myntra.com/boy-innerwear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc441"
+  },
+  "text": "Nightwear & Loungewear",
+  "href": "https://www.myntra.com/boy-nightwear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc442"
+  },
+  "text": "Value Packs",
+  "href": "https://www.myntra.com/boy-value-packs",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc443"
+  },
+  "text": "Girls Clothing",
+  "href": "https://www.myntra.com/girl",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc444"
+  },
+  "text": "Dresses",
+  "href": "https://www.myntra.com/girl-dresses",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc445"
+  },
+  "text": "Tops",
+  "href": "https://www.myntra.com/girl-tops",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc446"
+  },
+  "text": "Tshirts",
+  "href": "https://www.myntra.com/girl-tshirts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc447"
+  },
+  "text": "Clothing Sets",
+  "href": "https://www.myntra.com/girl-clothing-sets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc448"
+  },
+  "text": "Lehenga choli",
+  "href": "https://www.myntra.com/girl-lehenga-choli",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc449"
+  },
+  "text": "Kurta Sets",
+  "href": "https://www.myntra.com/girl-kurta-sets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc44a"
+  },
+  "text": "Party wear",
+  "href": "https://www.myntra.com/girl-party-wear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc44b"
+  },
+  "text": "Dungarees & Jumpsuits",
+  "href": "https://www.myntra.com/girl-jumpsuits",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc44c"
+  },
+  "text": "Skirts & shorts",
+  "href": "https://www.myntra.com/girl-skirts-and-shorts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc44d"
+  },
+  "text": "Tights & Leggings",
+  "href": "https://www.myntra.com/girl-tights-and-leggings",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc44e"
+  },
+  "text": "Jeans, Trousers & Capris",
+  "href": "https://www.myntra.com/girl-bottom-wear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc44f"
+  },
+  "text": "Jacket, Sweater & Sweatshirts",
+  "href": "https://www.myntra.com/girl-winter-wear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc450"
+  },
+  "text": "Innerwear & Thermals",
+  "href": "https://www.myntra.com/girl-innerwear-and-thermals",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc451"
+  },
+  "text": "Nightwear & Loungewear",
+  "href": "https://www.myntra.com/girl-nightwear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc452"
+  },
+  "text": "Value Packs",
+  "href": "https://www.myntra.com/girl-value-packs",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc453"
+  },
+  "text": "Footwear",
+  "href": "https://www.myntra.com/kids-footwear",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc454"
+  },
+  "text": "Casual Shoes",
+  "href": "https://www.myntra.com/kids-footwear?f=Categories%3ACasual%20Shoes&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc455"
+  },
+  "text": "Flipflops",
+  "href": "https://www.myntra.com/kids-footwear?f=Categories%3AFlip%20Flops&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc456"
+  },
+  "text": "Sports Shoes",
+  "href": "https://www.myntra.com/kids-footwear?f=Categories%3ASports%20Shoes&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc457"
+  },
+  "text": "Flats",
+  "href": "https://www.myntra.com/kids-footwear?f=Categories%3AFlats&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc458"
+  },
+  "text": "Sandals",
+  "href": "https://www.myntra.com/kids-footwear?f=Categories%3ASandals%2CSports%20Sandals&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc459"
+  },
+  "text": "Heels",
+  "href": "https://www.myntra.com/kids-footwear?f=Categories%3AHeels&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc45a"
+  },
+  "text": "School Shoes",
+  "href": "https://www.myntra.com/school-shoes?plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc45b"
+  },
+  "text": "Socks",
+  "href": "https://www.myntra.com/kids?f=Categories%3ABooties%2CSocks&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc45c"
+  },
+  "text": "Toys & Games",
+  "href": "https://www.myntra.com/toys-and-games",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc45d"
+  },
+  "text": "Learning & Development",
+  "href": "https://www.myntra.com/toys-and-games?f=Categories%3ALearning%20and%20Development%20Toys&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc45e"
+  },
+  "text": "Activity Toys",
+  "href": "https://www.myntra.com/toys-and-games?f=Categories%3AActivity%20Toys%20and%20Games&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc45f"
+  },
+  "text": "Soft Toys",
+  "href": "https://www.myntra.com/toys-and-games?f=Categories%3ASoft%20Toys%20and%20Dolls&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc460"
+  },
+  "text": "Action Figure / Play set",
+  "href": "https://www.myntra.com/toys-and-games?f=Categories%3AAction%20Figures%20and%20Play%20Set&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc461"
+  },
+  "text": "Infants",
+  "href": "https://www.myntra.com/inf-tki",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc462"
+  },
+  "text": "Bodysuits",
+  "href": "https://www.myntra.com/kids?f=Categories%3ABodysuit&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc463"
+  },
+  "text": "Rompers & Sleepsuits",
+  "href": "https://www.myntra.com/kids?f=Categories%3ARompers%2CSleepsuit&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc464"
+  },
+  "text": "Clothing Sets",
+  "href": "https://www.myntra.com/kids?f=Age%3A0M-3M%2C12M-18M%2C18M-24M%2C3M-6M%2C6M-9M%2C9M-12M%2CNewborn%3A%3ACategories%3AClothing%20Set&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc465"
+  },
+  "text": "Tshirts & Tops",
+  "href": "https://www.myntra.com/kids?f=Age%3A0M-3M%2C12M-18M%2C18M-24M%2C3M-6M%2C6M-9M%2C9M-12M%2CNewborn%3A%3ACategories%3ATops%2CTshirts&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc466"
+  },
+  "text": "Dresses",
+  "href": "https://www.myntra.com/kids?f=Age%3A0M-3M%2C12M-18M%2C18M-24M%2C3M-6M%2C6M-9M%2C9M-12M%2CNewborn%3A%3ACategories%3ADresses&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc467"
+  },
+  "text": "Bottom wear",
+  "href": "https://www.myntra.com/kids?f=Age%3A0M-3M%2C12M-18M%2C18M-24M%2C3M-6M%2C6M-9M%2C9M-12M%2CNewborn%3A%3ACategories%3ACapris%2CJeans%2CJeggings%2CLeggings%2CLounge%20Pants%2CLounge%20Shorts%2CPyjamas%2CShorts%2CSkirts%2CTights%2CTrack%20Pants%2CTrousers&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc468"
+  },
+  "text": "Winter Wear",
+  "href": "https://www.myntra.com/inf-tki?f=Age%3A0M-3M%2C12M-18M%2C18M-24M%2C3M-6M%2C6M-9M%2C9M-12M%2CNewborn%3A%3ACategories%3ABlazers%2CJackets%2CSweaters%2CSweatshirts%2CWaistcoat&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc469"
+  },
+  "text": "Innerwear & Sleepwear",
+  "href": "https://www.myntra.com/inf-tki?f=Categories%3ABoxers%2CBriefs%2CCamisoles%2CInnerwear%20Vests%2CNight%20suits%2CPyjamas%2CThermal%20Bottoms%2CThermal%20Set%2CThermal%20Tops%2CTrunk&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc46a"
+  },
+  "text": "Infant Care",
+  "href": "https://www.myntra.com/kids?f=Categories%3ABaby%20Apparel%20Gift%20Set%2CBaby%20Care%20Products%2CBaby%20Gear%20%26%20Nursery%2CBibs%2CDiaper%20Bags%2CMittens%2CNapkin%20Set&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc46b"
+  },
+  "text": "Home & Bath",
+  "href": "https://www.myntra.com/kids-home-bath",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc46c"
+  },
+  "text": "Personal Care",
+  "href": "https://www.myntra.com/kids?f=Categories%3ABaby%20Care%20Products%2CBath%20and%20Body%20Gift%20Set%2CBathroom%20Accessories%2CBody%20Lotion%2CBody%20Oil%2CBody%20Wash%20and%20Scrub%2CDeodorant%2CFace%20Wash%20and%20Cleanser%2CHair%20Brush%20and%20Comb%2CHair%20Oil%2CShampoo%20and%20Conditioner%2CSunscreen%2CTissues%20and%20Wipes%2CToiletry%20Kit&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc46d"
+  },
+  "text": "Kids Accessories",
+  "href": "https://www.myntra.com/kids-accessories",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc46e"
+  },
+  "text": "Bags & Backpacks",
+  "href": "https://www.myntra.com/kids?f=Categories%3ABackpacks%2CSchool%20Essentials%2CStationery%2CWater%20Bottle&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc46f"
+  },
+  "text": "Watches",
+  "href": "https://www.myntra.com/kids?f=Categories%3AWatch%20Gift%20Set%2CWatches&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc470"
+  },
+  "text": "Jewellery & Hair accessory",
+  "href": "https://www.myntra.com/kids?f=Categories%3AHair%20Accessory%2CHair%20Brush%20and%20Comb%2CJewellery%20Set%2CNecklace%20and%20Chains&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc471"
+  },
+  "text": "Sunglasses",
+  "href": "https://www.myntra.com/kids?f=Categories%3ASunglasses&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc472"
+  },
+  "text": "Masks & Protective Gears",
+  "href": "https://www.myntra.com/kids?f=Categories%3AOutdoor%20Masks&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc473"
+  },
+  "text": "Caps & Hats",
+  "href": "https://www.myntra.com/kids?f=Categories%3ACaps%2CHat&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc474"
+  },
+  "text": "Brands",
+  "href": "https://www.myntra.com/kids",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc475"
+  },
+  "text": "H&M",
+  "href": "https://www.myntra.com/kids?f=Brand%3AH%26M&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc476"
+  },
+  "text": "Max Kids",
+  "href": "https://www.myntra.com/kids?f=Brand%3Amax&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc477"
+  },
+  "text": "Pantaloons",
+  "href": "https://www.myntra.com/kids?f=Brand%3AAKKRITI%20BY%20PANTALOONS%2CAjile%20by%20Pantaloons%2CCHALK%20by%20Pantaloons%2CChirpie%20Pie%20by%20Pantaloons%2CPOPPERS%20by%20Pantaloons%2CPantaloons%20Baby%2CPantaloons%20Junior%2Cindus%20route%20by%20Pantaloons&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc478"
+  },
+  "text": "United Colors Of Benetton Kids",
+  "href": "https://www.myntra.com/kids?f=Brand%3AUnited%20Colors%20of%20Benetton&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc479"
+  },
+  "text": "YK",
+  "href": "https://www.myntra.com/kids?f=Brand%3AYK%2CYK%20Basics%2CYK%20Disney%2CYK%20Justice%20League%2CYK%20Marvel%2CYK%20Organic%2CYK%20Star%20Wars&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc47a"
+  },
+  "text": "U.S. Polo Assn. Kids",
+  "href": "https://www.myntra.com/kids?f=Brand%3AU.S.%20Polo%20Assn.%2CU.S.%20Polo%20Assn.%20Kids&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc47b"
+  },
+  "text": "Mothercare",
+  "href": "https://www.myntra.com/kids?f=Brand%3Amothercare&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc47c"
+  },
+  "text": "HRX",
+  "href": "https://www.myntra.com/kids?f=Brand%3AHRX%20by%20Hrithik%20Roshan&plaEnabled=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc47d"
+  },
+  "text": "Home",
+  "href": "https://www.myntra.com/shop/home-living",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc47e"
+  },
+  "text": "Bed Linen & Furnishing",
+  "href": "https://www.myntra.com/bedding",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc47f"
+  },
+  "text": "Bed Runners",
+  "href": "https://www.myntra.com/home-furnishing?f=Categories%3ARunners%3A%3AType%3ABed",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc480"
+  },
+  "text": "Mattress Protectors",
+  "href": "https://www.myntra.com/home-furnishing-menu?f=Categories%3AMattress%20Protector",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc481"
+  },
+  "text": "Bedsheets",
+  "href": "https://www.myntra.com/bedsheets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc482"
+  },
+  "text": "Bedding Sets",
+  "href": "https://www.myntra.com/bedding-sets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc483"
+  },
+  "text": "Blankets, Quilts & Dohars",
+  "href": "https://www.myntra.com/blankets-quilts-and-dohars",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc484"
+  },
+  "text": "Pillows & Pillow Covers",
+  "href": "https://www.myntra.com/pillows",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc485"
+  },
+  "text": "Bed Covers",
+  "href": "https://www.myntra.com/bed-covers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc486"
+  },
+  "text": "Diwan Sets",
+  "href": "https://www.myntra.com/diwan-set?src=bc",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc487"
+  },
+  "text": "Chair Pads & Covers",
+  "href": "https://www.myntra.com/home-furnishing?f=Categories%3AChair%20Cover%2CChair%20Pads",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc488"
+  },
+  "text": "Sofa Covers",
+  "href": "https://www.myntra.com/sofa-covers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc489"
+  },
+  "text": "Flooring",
+  "href": "https://www.myntra.com/flooring",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc48a"
+  },
+  "text": "Floor Runners",
+  "href": "https://www.myntra.com/home-furnishing?f=Categories%3ARunners%3A%3AType%3AFloor",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc48b"
+  },
+  "text": "Carpets",
+  "href": "https://www.myntra.com/carpets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc48c"
+  },
+  "text": "Floor Mats & Dhurries",
+  "href": "https://www.myntra.com/floor-mats-dhurries",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc48d"
+  },
+  "text": "Door Mats",
+  "href": "https://www.myntra.com/doormats",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc48e"
+  },
+  "text": "Bath",
+  "href": "https://www.myntra.com/home-furnishing-menu?f=Categories%3ABath%20Robe%2CBath%20Rugs%2CBath%20Towels%2CBathroom%20Accessories%2CBeach%20Towels%2CFace%20Towels%2CHand%20Towels%2CShower%20Curtains%2CTowel%20Set",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc48f"
+  },
+  "text": "Bath Towels",
+  "href": "https://www.myntra.com/towels",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc490"
+  },
+  "text": "Hand & Face Towels",
+  "href": "https://www.myntra.com/hand-towels",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc491"
+  },
+  "text": "Beach Towels",
+  "href": "https://www.myntra.com/beach-towels",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc492"
+  },
+  "text": "Towels Set",
+  "href": "https://www.myntra.com/towel-set",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc493"
+  },
+  "text": "Bath Rugs",
+  "href": "https://www.myntra.com/bath-rugs",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc494"
+  },
+  "text": "Bath Robes",
+  "href": "https://www.myntra.com/bath-robes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc495"
+  },
+  "text": "Bathroom Accessories",
+  "href": "https://www.myntra.com/bathroom-accessories",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc496"
+  },
+  "text": "Shower Curtains",
+  "href": "https://www.myntra.com/home-furnishing-menu?f=Categories%3AShower%20Curtains",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc497"
+  },
+  "text": "Lamps & Lighting",
+  "href": "https://www.myntra.com/lightsnlamps",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc498"
+  },
+  "text": "Floor Lamps",
+  "href": "https://www.myntra.com/floorlamp",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc499"
+  },
+  "text": "Ceiling Lamps",
+  "href": "https://www.myntra.com/ceilinglamp",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc49a"
+  },
+  "text": "Table Lamps",
+  "href": "https://www.myntra.com/tablelamp",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc49b"
+  },
+  "text": "Wall Lamps",
+  "href": "https://www.myntra.com/walllamp",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc49c"
+  },
+  "text": "Outdoor Lamps",
+  "href": "https://www.myntra.com/outdoorlamp",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc49d"
+  },
+  "text": "String Lights",
+  "href": "https://www.myntra.com/stringlight",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc49e"
+  },
+  "text": "Home Décor",
+  "href": "https://www.myntra.com/home-furnishing?f=Categories%3AAir%20Freshener%2CAroma%20Oils%2CArtificial%20Flowers%20and%20Plants%2CBins%2CCandle%20Holders%2CCandles%2CCeiling%20Lamps%2CClocks%2CDecals%20and%20Stickers%2CDecorative%20Bowls%2CDecorative%20Magnets%2CFestive%20Decor%2CFloor%20Lamps%2CFountains%2CGarden%20Accessories%2CHandheld%20Air%20Fresheners%2CHome%20Fragrance%20Set%2CHome%20Fragrances%2CKey%20Holders%2CLaptop%20Table%2CMirrors%2COutdoor%20Lamps%2CPhoto%20Albums%2CPhoto%20Frames%2CPlanters%2CPooja%20Essentials%2CPotpourri%2CShowpieces%2CString%20Lights%2CVase%20Fillers%2CVases%2CWall%20Art%2CWall%20Decor%2CWall%20Lamps%2CWall%20Shelves%2CWater%20Bottle%2CWindchimes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc49f"
+  },
+  "text": "Plants & Planters",
+  "href": "https://www.myntra.com/home-furnishing?f=Categories%3AArtificial%20Flowers%20and%20Plants%2CGarden%20Accessories%2CPlanters",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4a0"
+  },
+  "text": "Aromas & Candles",
+  "href": "https://www.myntra.com/aroma-oil-diffusers-aroma-oils-air-freshener-handheld-air-fresheners-home-fragrances-home-fragrance-set-candles",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4a1"
+  },
+  "text": "Clocks",
+  "href": "https://www.myntra.com/clocks",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4a2"
+  },
+  "text": "Mirrors",
+  "href": "https://www.myntra.com/mirrors",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4a3"
+  },
+  "text": "Wall Décor",
+  "href": "https://www.myntra.com/decorhome?f=Categories%3ADecals%20and%20Stickers%2CKey%20Holders%2CPhoto%20Frames%2CWall%20Art%2CWall%20Decor%2CWindchimes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4a4"
+  },
+  "text": "Festive Decor",
+  "href": "https://www.myntra.com/home-furnishing?f=Categories%3AFestive%20Decor",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4a5"
+  },
+  "text": "Pooja Essentials",
+  "href": "https://www.myntra.com/home-furnishing?f=Categories%3AFestive%20Decor%2CPooja%20Essentials",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4a6"
+  },
+  "text": "Wall Shelves",
+  "href": "https://www.myntra.com/wall-shelves",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4a7"
+  },
+  "text": "Fountains",
+  "href": "https://www.myntra.com/fountains",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4a8"
+  },
+  "text": "Showpieces & Vases",
+  "href": "https://www.myntra.com/home-decor-showpieces-vases",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4a9"
+  },
+  "text": "Ottoman",
+  "href": "https://www.myntra.com/ottoman",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4aa"
+  },
+  "text": "Cushions & Cushion Covers",
+  "href": "https://www.myntra.com/cushion-and-cushion-covers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4ab"
+  },
+  "text": "Curtains",
+  "href": "https://www.myntra.com/curtains",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4ac"
+  },
+  "text": "Furniture",
+  "href": "https://www.myntra.com/furniture",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4ad"
+  },
+  "text": "Home Gift Sets",
+  "href": "https://www.myntra.com/homegiftsets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4ae"
+  },
+  "text": "Kitchen & Table",
+  "href": "https://www.myntra.com/home-furnishing?f=Categories%3AAppliance%20covers%2CAprons%2CBakeware%2CBar%20Accessories%2CBar%20and%20Drinkware%2CCoasters%2CCookware%2CCups%20and%20Mugs%2CCutlery%2CDining%20Essentials%2CDinnerware%2CKitchen%20Gloves%2CKitchen%20Linen%20Sets%2CKitchen%20Storage%2CKitchen%20Tools%2CKitchen%20Towels%2COven%20Glove%2CServeware%2CTable%20Cloth%2CTable%20Covers%2CTable%20Linen%20Sets%2CTable%20Napkins%2CTable%20Placemats%2CTowel%20Set%2CTrays%2CWater%20Bottle",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4af"
+  },
+  "text": "Table Runners",
+  "href": "https://www.myntra.com/home-furnishing?f=Categories%3ARunners%3A%3AType%3ATable",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4b0"
+  },
+  "text": "Dinnerware & Serveware",
+  "href": "https://www.myntra.com/home-furnishing?f=Categories%3ACutlery%2CDining%20Essentials%2CDinnerware%2CServeware%2CTrays%2CWater%20Bottle",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4b1"
+  },
+  "text": "Cups and Mugs",
+  "href": "https://www.myntra.com/cups-and-mugs",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4b2"
+  },
+  "text": "Bakeware & Cookware",
+  "href": "https://www.myntra.com/bakeware-cookware",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4b3"
+  },
+  "text": "Kitchen Storage & Tools",
+  "href": "https://www.myntra.com/kitchen-storage-kitchen-tools",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4b4"
+  },
+  "text": "Bar & Drinkware",
+  "href": "https://www.myntra.com/bar-and-drinkware-bar-accessories",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4b5"
+  },
+  "text": "Table Covers & Furnishings",
+  "href": "https://www.myntra.com/runners-table-placemats-table-cloth-table-covers-table-napkins-table-mat-oven-glove-aprons-kitchen-linen-sets-kitchen-gloves-table-linen-sets-napkin-set",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4b6"
+  },
+  "text": "Storage",
+  "href": "https://www.myntra.com/home-furnishing-menu?f=Categories%3ABins%2CHanger%2CHooks%20and%20Holders%2CLaundry%20Bag%2COrganisers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4b7"
+  },
+  "text": "Bins",
+  "href": "https://www.myntra.com/home-furnishing?f=Categories%3ABins",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4b8"
+  },
+  "text": "Hangers",
+  "href": "https://www.myntra.com/home-furnishing?f=Categories%3AHanger",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4b9"
+  },
+  "text": "Organisers",
+  "href": "https://www.myntra.com/organisers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4ba"
+  },
+  "text": "Hooks & Holders",
+  "href": "https://www.myntra.com/hooks-and-holders",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4bb"
+  },
+  "text": "Laundry Bags",
+  "href": "https://www.myntra.com/laundry-bag?src=bc",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4bc"
+  },
+  "text": "Beauty",
+  "href": "https://www.myntra.com/personal-care",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4bd"
+  },
+  "text": "Makeup",
+  "href": "https://www.myntra.com/makeup",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4be"
+  },
+  "text": "Lipstick",
+  "href": "https://www.myntra.com/lipstick",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4bf"
+  },
+  "text": "Lip Gloss",
+  "href": "https://www.myntra.com/lip-gloss",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4c0"
+  },
+  "text": "Lip Liner",
+  "href": "https://www.myntra.com/lip-liner",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4c1"
+  },
+  "text": "Mascara",
+  "href": "https://www.myntra.com/mascara",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4c2"
+  },
+  "text": "Eyeliner",
+  "href": "https://www.myntra.com/eyeliner",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4c3"
+  },
+  "text": "Kajal",
+  "href": "https://www.myntra.com/kajal",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4c4"
+  },
+  "text": "Eyeshadow",
+  "href": "https://www.myntra.com/eyeshadow",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4c5"
+  },
+  "text": "Foundation",
+  "href": "https://www.myntra.com/foundation",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4c6"
+  },
+  "text": "Primer",
+  "href": "https://www.myntra.com/primer",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4c7"
+  },
+  "text": "Concealer",
+  "href": "https://www.myntra.com/concealer",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4c8"
+  },
+  "text": "Compact",
+  "href": "https://www.myntra.com/compact",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4c9"
+  },
+  "text": "Nail Polish",
+  "href": "https://www.myntra.com/nail-polish",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4ca"
+  },
+  "text": "Skincare, Bath & Body",
+  "href": "https://www.myntra.com/beauty-page-skincare-bath-body",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4cb"
+  },
+  "text": "Face Moisturiser",
+  "href": "https://www.myntra.com/face-moisturisers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4cc"
+  },
+  "text": "Cleanser",
+  "href": "https://www.myntra.com/cleanser",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4cd"
+  },
+  "text": "Masks & Peel",
+  "href": "https://www.myntra.com/mask-and-peel",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4ce"
+  },
+  "text": "Sunscreen",
+  "href": "https://www.myntra.com/sunscreen",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4cf"
+  },
+  "text": "Serum",
+  "href": "https://www.myntra.com/serum",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4d0"
+  },
+  "text": "Face Wash",
+  "href": "https://www.myntra.com/face-wash",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4d1"
+  },
+  "text": "Eye Cream",
+  "href": "https://www.myntra.com/eye-cream",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4d2"
+  },
+  "text": "Lip Balm",
+  "href": "https://www.myntra.com/lip-balm",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4d3"
+  },
+  "text": "Body Lotion",
+  "href": "https://www.myntra.com/body-lotion",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4d4"
+  },
+  "text": "Body Wash",
+  "href": "https://www.myntra.com/body-wash",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4d5"
+  },
+  "text": "Body Scrub",
+  "href": "https://www.myntra.com/body-scrub",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4d6"
+  },
+  "text": "Hand Cream",
+  "href": "https://www.myntra.com/hand-cream",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4d7"
+  },
+  "text": "Baby Care",
+  "href": "https://www.myntra.com/baby-care",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4d8"
+  },
+  "text": "Masks",
+  "href": "https://www.myntra.com/mask",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4d9"
+  },
+  "text": "Haircare",
+  "href": "https://www.myntra.com/hair",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4da"
+  },
+  "text": "Shampoo",
+  "href": "https://www.myntra.com/shampoo",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4db"
+  },
+  "text": "Conditioner",
+  "href": "https://www.myntra.com/hair-conditioner",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4dc"
+  },
+  "text": "Hair Cream",
+  "href": "https://www.myntra.com/hair-cream",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4dd"
+  },
+  "text": "Hair Oil",
+  "href": "https://www.myntra.com/hair-oil",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4de"
+  },
+  "text": "Hair Gel",
+  "href": "https://www.myntra.com/hair-gel",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4df"
+  },
+  "text": "Hair Color",
+  "href": "https://www.myntra.com/hair-colour",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4e0"
+  },
+  "text": "Hair Serum",
+  "href": "https://www.myntra.com/hair-serum",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4e1"
+  },
+  "text": "Hair Accessory",
+  "href": "https://www.myntra.com/hair-accessory",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4e2"
+  },
+  "text": "Fragrances",
+  "href": "https://www.myntra.com/fragrance",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4e3"
+  },
+  "text": "Perfume",
+  "href": "https://www.myntra.com/perfumes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4e4"
+  },
+  "text": "Deodorant",
+  "href": "https://www.myntra.com/deodorant",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4e5"
+  },
+  "text": "Body Mist",
+  "href": "https://www.myntra.com/body-mist",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4e6"
+  },
+  "text": "Appliances",
+  "href": "https://www.myntra.com/beauty-page-appliances",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4e7"
+  },
+  "text": "Hair Straightener",
+  "href": "https://www.myntra.com/hair-straightener",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4e8"
+  },
+  "text": "Hair Dryer",
+  "href": "https://www.myntra.com/hair-dryer",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4e9"
+  },
+  "text": "Epilator",
+  "href": "https://www.myntra.com/epilator",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4ea"
+  },
+  "text": "Men's Grooming",
+  "href": "https://www.myntra.com/grooming",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4eb"
+  },
+  "text": "Trimmers",
+  "href": "https://www.myntra.com/trimmer",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4ec"
+  },
+  "text": "Beard Oil",
+  "href": "https://www.myntra.com/beard-oil",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4ed"
+  },
+  "text": "Hair Wax",
+  "href": "https://www.myntra.com/hair-wax",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4ee"
+  },
+  "text": "Beauty Gift & Makeup Set",
+  "href": "https://www.myntra.com/beauty-gift-set",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4ef"
+  },
+  "text": "Beauty Gift",
+  "href": "https://www.myntra.com/beauty-gift-set",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4f0"
+  },
+  "text": "Makeup Kit",
+  "href": "https://www.myntra.com/makeup-kit",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4f1"
+  },
+  "text": "Premium Beauty",
+  "href": "https://www.myntra.com/beauty-page-premium",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4f2"
+  },
+  "text": "Wellness & Hygiene",
+  "href": "https://www.myntra.com/personal-care?f=Categories%3AFeminine%20Hygiene&sort=popularity",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4f3"
+  },
+  "text": "Top Brands",
+  "href": "https://www.myntra.com/personal-care",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4f4"
+  },
+  "text": "Lakme",
+  "href": "https://www.myntra.com/lakme",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4f5"
+  },
+  "text": "Maybelline",
+  "href": "https://www.myntra.com/maybelline",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4f6"
+  },
+  "text": "LOreal",
+  "href": "https://www.myntra.com/loreal",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4f7"
+  },
+  "text": "Philips",
+  "href": "https://www.myntra.com/philips",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4f8"
+  },
+  "text": "Bath & Body Works",
+  "href": "https://www.myntra.com/bath-and-body-works",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4f9"
+  },
+  "text": "THE BODY SHOP",
+  "href": "https://www.myntra.com/the-body-shop",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4fa"
+  },
+  "text": "Biotique",
+  "href": "https://www.myntra.com/biotique",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4fb"
+  },
+  "text": "Mamaearth",
+  "href": "https://www.myntra.com/mamaearth",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4fc"
+  },
+  "text": "MCaffeine",
+  "href": "https://www.myntra.com/mcaffeine",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4fd"
+  },
+  "text": "Nivea",
+  "href": "https://www.myntra.com/nivea",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4fe"
+  },
+  "text": "Lotus Herbals",
+  "href": "https://www.myntra.com/lotus-herbals",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc4ff"
+  },
+  "text": "LOreal Professionnel",
+  "href": "https://www.myntra.com/loreal-professionnel",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc500"
+  },
+  "text": "KAMA AYURVEDA",
+  "href": "https://www.myntra.com/kama-ayurveda",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc501"
+  },
+  "text": "M.A.C",
+  "href": "https://www.myntra.com/m.a.c",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc502"
+  },
+  "text": "Forest Essentials",
+  "href": "https://www.myntra.com/forest-essentials",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc503"
+  },
+  "text": "Genz",
+  "href": "https://www.myntra.com/shop/fwd-women",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc504"
+  },
+  "text": "Women's Western Wear",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ACo-Ords%2CDresses%2CJackets%2CJeans%2CJumpsuit%2CShirts%2CShorts%2CSkirts%2CSweaters%2CSweatshirts%2CTops%2CTrack%20Pants%2CTrousers%2CTshirts%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_900.0_0.0%20TO%20900.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc505"
+  },
+  "text": "Dresses Under ₹599",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ADresses%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_600.0_0.0%20TO%20600.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc506"
+  },
+  "text": "Tops Under ₹399",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ATops%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_400.0_0.0%20TO%20400.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc507"
+  },
+  "text": "Jeans Under ₹599",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AJeans%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_600.0_0.0%20TO%20600.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc508"
+  },
+  "text": "Trousers Under ₹699",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ATrousers%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_700.0_0.0%20TO%20700.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc509"
+  },
+  "text": "T-shirts Under ₹299",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ATshirts%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_300.0_0.0%20TO%20300.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc50a"
+  },
+  "text": "Shirts Under ₹499",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AShirts%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_500.0_0.0%20TO%20500.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc50b"
+  },
+  "text": "Skirts Under ₹499",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ASkirts%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_500.0_0.0%20TO%20500.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc50c"
+  },
+  "text": "Shorts Under ₹699",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AShorts%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_700.0_0.0%20TO%20700.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc50d"
+  },
+  "text": "Co-ords Under ₹799",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ACo-Ords%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_800.0_0.0%20TO%20800.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc50e"
+  },
+  "text": "Jumpsuits Under ₹899",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AJumpsuit%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_900.0_0.0%20TO%20900.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc50f"
+  },
+  "text": "Track pants Under ₹699",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ATrack%20Pants%3A%3AGender%3Amen%20women%2Cwomen%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_700.0_0.0%20TO%20700.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc510"
+  },
+  "text": "Jackets Under ₹899",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AJackets%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_900.0_0.0%20TO%20900.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc511"
+  },
+  "text": "Sweatshirts Under ₹699",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ASweatshirts%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_700.0_0.0%20TO%20700.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc512"
+  },
+  "text": "Sweaters Under ₹899",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ASweaters%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_900.0_0.0%20TO%20900.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc513"
+  },
+  "text": "Women's Ethnic Wear",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AEthnic%20Dresses%2CKurta%20Sets%2CKurtas%2CKurtis%2CPalazzos%2CSarees%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc514"
+  },
+  "text": "Kurtas Under ₹399",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AKurtas%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_400.0_0.0%20TO%20400.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc515"
+  },
+  "text": "Kurtis Under ₹499",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AKurtis%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_500.0_0.0%20TO%20500.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc516"
+  },
+  "text": "Kurta sets Under ₹499",
+  "href": "https://www.myntra.com/myntra?f=Categories%3AKurta%20Sets%3A%3AGender%3Amen%20women%2Cwomen%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_500.0_0.0%20TO%20500.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc517"
+  },
+  "text": "Ethnic Dresses Under ₹999",
+  "href": "https://www.myntra.com/myntra?f=Categories%3AEthnic%20Dresses%3A%3AGender%3Amen%20women%2Cwomen%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc518"
+  },
+  "text": "Palazzos Under ₹799",
+  "href": "https://www.myntra.com/myntra?f=Categories%3APalazzos%3A%3AGender%3Amen%20women%2Cwomen%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_800.0_0.0%20TO%20800.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc519"
+  },
+  "text": "Lingerie & Loungewear",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ABra%2CBriefs%2CLounge%20Pants%2CNight%20suits%2CNightdress%3A%3AGender%3Amen%20women%2Cwomen%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc51a"
+  },
+  "text": "Bras Under ₹399",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ABra&rf=Price%3A0.0_400.0_0.0%20TO%20400.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc51b"
+  },
+  "text": "Night suits Under ₹799",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ANight%20suits%3A%3AGender%3Amen%20women%2Cwomen%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_800.0_0.0%20TO%20800.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc51c"
+  },
+  "text": "Nightdresses Under ₹999",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ANightdress%3A%3AGender%3Amen%20women%2Cwomen%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc51d"
+  },
+  "text": "Lounge pants Under ₹999",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ALounge%20Pants%3A%3AGender%3Amen%20women%2Cwomen%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc51e"
+  },
+  "text": "Briefs Under ₹599",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ABriefs%3A%3AGender%3Amen%20women%2Cwomen%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_600.0_0.0%20TO%20600.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc51f"
+  },
+  "text": "Men's Casual Wear",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ACo-Ords%2CJackets%2CJeans%2CShirts%2CShorts%2CSweaters%2CSweatshirts%2CTrack%20Pants%2CTrousers%2CTshirts%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A0.0_900.0_0.0%20TO%20900.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc520"
+  },
+  "text": "T-shirts Under ₹299",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ATshirts%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A0.0_300.0_0.0%20TO%20300.0",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc521"
+  },
+  "text": "Shirts Under ₹499",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AShirts%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A0.0_500.0_0.0%20TO%20500.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc522"
+  },
+  "text": "Jeans Under ₹599",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AJeans%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A0.0_600.0_0.0%20TO%20600.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc523"
+  },
+  "text": "Trousers Under ₹699",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ATrousers%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A0.0_700.0_0.0%20TO%20700.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc524"
+  },
+  "text": "Shorts Under ₹599",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AShorts%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A0.0_600.0_0.0%20TO%20600.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc525"
+  },
+  "text": "Track pants Under ₹699",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ATrack%20Pants%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A0.0_700.0_0.0%20TO%20700.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc526"
+  },
+  "text": "Jackets Under ₹899",
+  "href": "https://www.myntra.com/myntra?f=Categories%3AJackets%3A%3AGender%3Amen%2Cmen%20women%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_900.0_0.0%20TO%20900.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc527"
+  },
+  "text": "Sweatshirts Under ₹699",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ASweatshirts%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A0.0_700.0_0.0%20TO%20700.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc528"
+  },
+  "text": "Sweaters Under ₹999",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ASweaters%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc529"
+  },
+  "text": "Co-ords Under ₹999",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ACo-Ords%3A%3AGender%3Amen%2Cmen%20women%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc52a"
+  },
+  "text": "Men's Occassion Wear",
+  "href": "https://www.myntra.com/myntra?f=Categories%3AKurta%20Sets%2CKurtas%3A%3AGender%3Amen%2Cmen%20women%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc52b"
+  },
+  "text": "Kurtas Under ₹799",
+  "href": "https://www.myntra.com/myntra?f=Categories%3AKurtas%3A%3AGender%3Amen%2Cmen%20women%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_800.0_0.0%20TO%20800.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc52c"
+  },
+  "text": "Kurta Sets Under ₹999",
+  "href": "https://www.myntra.com/myntra?f=Categories%3AKurta%20Sets%3A%3AGender%3Amen%2Cmen%20women%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc52d"
+  },
+  "text": "Women's Footwear",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ABallerinas%2CBoots%2CCasual%20Shoes%2CFlats%2CFlip%20Flops%2CHeels%2CSports%20Shoes%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc52e"
+  },
+  "text": "Heels Under ₹599",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AHeels%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_600.0_0.0%20TO%20600.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc52f"
+  },
+  "text": "Flats Under ₹499",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AFlats%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_500.0_0.0%20TO%20500.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc530"
+  },
+  "text": "Casual shoes Under ₹699",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ACasual%20Shoes%3A%3AGender%3Amen%20women%2Cwomen%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_700.0_0.0%20TO%20700.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc531"
+  },
+  "text": "Sports shoes Under ₹999",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ASports%20Shoes%3A%3AGender%3Amen%20women%2Cwomen%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc532"
+  },
+  "text": "Flip flops Under ₹799",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AFlip%20Flops%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_800.0_0.0%20TO%20800.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc533"
+  },
+  "text": "Boots Under ₹999",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ABoots%3A%3AGender%3Amen%20women%2Cwomen%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc534"
+  },
+  "text": "Ballerinas Under ₹799",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ABallerinas%3A%3AGender%3Amen%20women%2Cwomen%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_800.0_0.0%20TO%20800.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc535"
+  },
+  "text": "Men's Footwear",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ABallerinas%2CBoots%2CCasual%20Shoes%2CFlats%2CFlip%20Flops%2CFormal%20Shoes%2CHeels%2CSandals%2CSports%20Shoes%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc536"
+  },
+  "text": "Casual shoes Under ₹799",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ACasual%20Shoes%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A0.0_800.0_0.0%20TO%20800.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc537"
+  },
+  "text": "Sports shoes Under ₹999",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ASports%20Shoes%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc538"
+  },
+  "text": "Formal shoes Under ₹999",
+  "href": "https://www.myntra.com/myntra?f=Categories%3AFormal%20Shoes%3A%3AGender%3Amen%2Cmen%20women%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc539"
+  },
+  "text": "Sandals Under ₹799",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ASandals%3A%3AGender%3Amen%2Cmen%20women%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_800.0_0.0%20TO%20800.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc53a"
+  },
+  "text": "Flip flops Under ₹499",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AFlip%20Flops%3A%3AGender%3Amen%2Cmen%20women&rf=Price%3A0.0_500.0_0.0%20TO%20500.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc53b"
+  },
+  "text": "Boots Under ₹999",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ABoots%3A%3AGender%3Amen%2Cmen%20women%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc53c"
+  },
+  "text": "Beauty & Grooming",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ABath%20and%20Body%20Combo%2CBath%20and%20Body%20Gift%20Set%2CFragrance%20Combo%2CFragrance%20Gift%20Set%2CHair%20Accessory%2CHair%20Colour%2CHair%20Gels%20and%20Wax%2CHair%20Masks%2CHair%20Oil%2CHair%20Serum%2CHair%20Spray%2CMakeup%20Kit%2CMakeup%20Pouch%2CMakeup%20Remover%2CSkin%20Care%20Combo%2CSkin%20Care%20Gift%20Set%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc53d"
+  },
+  "text": "Skincare Under ₹299",
+  "href": "https://www.myntra.com/skincare?f=Quick%20Filters%3AHot%20Trends&rf=Price%3A0.0_300.0_0.0%20TO%20300.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc53e"
+  },
+  "text": "Haircare Under ₹399",
+  "href": "https://www.myntra.com/hair?f=Quick%20Filters%3AHot%20Trends&rf=Price%3A0.0_400.0_0.0%20TO%20400.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc53f"
+  },
+  "text": "Bath & Body Under ₹399",
+  "href": "https://www.myntra.com/bath-and-body?f=Quick%20Filters%3AHot%20Trends&rf=Price%3A0.0_400.0_0.0%20TO%20400.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc540"
+  },
+  "text": "MakeUp Under ₹299",
+  "href": "https://www.myntra.com/makeup?f=Quick%20Filters%3AHot%20Trends&rf=Price%3A0.0_300.0_0.0%20TO%20300.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc541"
+  },
+  "text": "Fragrances Under ₹399",
+  "href": "https://www.myntra.com/fragrances?f=Quick%20Filters%3AHot%20Trends&rf=Price%3A0.0_400.0_0.0%20TO%20400.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc542"
+  },
+  "text": "Appliances Under ₹999",
+  "href": "https://www.myntra.com/appliances?f=Quick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc543"
+  },
+  "text": "Accessories",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ABackpacks%2CBelts%2CCaps%2CClutches%2CHandbags%2CHead%20Jewellery%2CJewellery%20Set%2CSunglasses%2CWallets&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc544"
+  },
+  "text": "Jewellery Under ₹299",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AAnklet%2CBangle%2CBracelet%2CEarrings%2CJewellery%20Set%2CNecklace%20and%20Chains%2CRing%3A%3AGender%3Amen%20women%2Cwomen&rf=Price%3A0.0_300.0_0.0%20TO%20300.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc545"
+  },
+  "text": "Handbags Under ₹499",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AHandbags&rf=Price%3A0.0_500.0_0.0%20TO%20500.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc546"
+  },
+  "text": "Clutches Under ₹999",
+  "href": "https://www.myntra.com/myntra?f=Categories%3AClutches%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_1000.0_0.0%20TO%201000.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc547"
+  },
+  "text": "Backpacks Under ₹699",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ABackpacks&rf=Price%3A0.0_700.0_0.0%20TO%20700.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc548"
+  },
+  "text": "Wallets Under ₹499",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3AWallets&rf=Price%3A0.0_500.0_0.0%20TO%20500.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc549"
+  },
+  "text": "Sunglasses Under ₹699",
+  "href": "https://www.myntra.com/fwdgenzcollection?f=Categories%3ASunglasses&rf=Price%3A0.0_700.0_0.0%20TO%20700.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc54a"
+  },
+  "text": "Belts Under ₹799",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ABelts%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_800.0_0.0%20TO%20800.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc54b"
+  },
+  "text": "Caps Under ₹899",
+  "href": "https://www.myntra.com/myntra?f=Categories%3ACaps%3A%3AQuick%20Filters%3AHot%20Trends&rf=Price%3A0.0_900.0_0.0%20TO%20900.0&storeContext=fwd",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc54c"
+  },
+  "text": "Studio",
+  "href": "https://www.myntra.com/studio/home",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc54d"
+  },
+  "text": "EXPLORE STUDIO",
+  "href": "https://www.myntra.com/studio/home",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc54e"
+  },
+  "text": "login / Signup",
+  "href": "https://www.myntra.com/login?referer=https%3A%2F%2Fwww.myntra.com%2F",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc54f"
+  },
+  "text": "Orders",
+  "href": "https://www.myntra.com/my/orders",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc550"
+  },
+  "text": "Wishlist",
+  "href": "https://www.myntra.com/wishlist",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc551"
+  },
+  "text": "Gift Cards",
+  "href": "https://www.myntra.com/giftcard",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc552"
+  },
+  "text": "Contact Us",
+  "href": "https://www.myntra.com/contactus",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc553"
+  },
+  "text": "Myntra Insider New",
+  "href": "https://www.myntra.com/myntrainsider?cache=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc554"
+  },
+  "text": "Myntra Credit",
+  "href": "https://www.myntra.com/my/myntracredit",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc555"
+  },
+  "text": "Coupons",
+  "href": "https://www.myntra.com/my/coupons",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc556"
+  },
+  "text": "Saved Cards",
+  "href": "https://www.myntra.com/my/savedcards",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc557"
+  },
+  "text": "Saved VPA",
+  "href": "https://www.myntra.com/my/savedvpa",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc558"
+  },
+  "text": "Saved Addresses",
+  "href": "https://www.myntra.com/my/address",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc559"
+  },
+  "text": "Wishlist",
+  "href": "https://www.myntra.com/wishlist",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc55a"
+  },
+  "text": "0Bag",
+  "href": "https://www.myntra.com/checkout/cart",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc55b"
+  },
+  "text": "ONLINE SHOPPING",
+  "href": "https://www.myntra.com/?src=onlineShopping",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc55c"
+  },
+  "text": "Men",
+  "href": "https://www.myntra.com/shop/men",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc55d"
+  },
+  "text": "Women",
+  "href": "https://www.myntra.com/shop/women",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc55e"
+  },
+  "text": "Kids",
+  "href": "https://www.myntra.com/shop/kids",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc55f"
+  },
+  "text": "Home",
+  "href": "https://www.myntra.com/shop/home-living",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc560"
+  },
+  "text": "Beauty",
+  "href": "https://www.myntra.com/personal-care",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc561"
+  },
+  "text": "Genz",
+  "href": "https://www.myntra.com/shop/fwd-women",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc562"
+  },
+  "text": "Gift Cards",
+  "href": "https://www.myntra.com/giftcard",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc563"
+  },
+  "text": "Myntra Insider",
+  "href": "https://www.myntra.com/myntrainsider?cache=false",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc564"
+  },
+  "text": "Blog",
+  "href": "http://blog.myntra.com/",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc565"
+  },
+  "text": "Careers",
+  "href": "https://careers.myntra.com/",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc566"
+  },
+  "text": "Site Map",
+  "href": "https://www.myntra.com/sitemap",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc567"
+  },
+  "text": "Corporate Information",
+  "href": "https://www.myntra.com/corp-info",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc568"
+  },
+  "text": "Whitehat",
+  "href": "https://www.myntra.com/security/whitehat",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc569"
+  },
+  "text": "Cleartrip",
+  "href": "https://www.cleartrip.com/",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc56a"
+  },
+  "text": "Myntra Global",
+  "href": "https://www.myntraglobal.com/",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc56b"
+  },
+  "text": "Contact Us",
+  "href": "https://www.myntra.com/contactus",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc56c"
+  },
+  "text": "FAQ",
+  "href": "https://www.myntra.com/faqs",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc56d"
+  },
+  "text": "T&C",
+  "href": "https://www.myntra.com/tac",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc56e"
+  },
+  "text": "Terms Of Use",
+  "href": "https://www.myntra.com/termsofuse",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc56f"
+  },
+  "text": "Track Orders",
+  "href": "https://www.myntra.com/my/orders",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc570"
+  },
+  "text": "Shipping",
+  "href": "https://www.myntra.com/faqs#shipping",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc571"
+  },
+  "text": "Cancellation",
+  "href": "https://www.myntra.com/faqs#cancel",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc572"
+  },
+  "text": "Privacy policy",
+  "href": "https://www.myntra.com/privacypolicy",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc573"
+  },
+  "text": "Grievance Redressal",
+  "href": "https://www.myntra.com/grievanceredressal",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc574"
+  },
+  "text": "FSSAI Food Safety Connect app",
+  "href": "https://fssai.gov.in/cms/food-safety-connect.php",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc575"
+  },
+  "text": "Makeup",
+  "href": "https://www.myntra.com/makeup",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc576"
+  },
+  "text": "Dresses For Girls",
+  "href": "https://www.myntra.com/girls-dresses",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc577"
+  },
+  "text": "T-Shirts",
+  "href": "https://www.myntra.com/tshirts",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc578"
+  },
+  "text": "Sandals",
+  "href": "https://www.myntra.com/sandals",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc579"
+  },
+  "text": "Headphones",
+  "href": "https://www.myntra.com/headphones",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc57a"
+  },
+  "text": "Babydolls",
+  "href": "https://www.myntra.com/babydolls",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc57b"
+  },
+  "text": "Blazers For Men",
+  "href": "https://www.myntra.com/men-blazers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc57c"
+  },
+  "text": "Handbags",
+  "href": "https://www.myntra.com/handbags",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc57d"
+  },
+  "text": "Ladies Watches",
+  "href": "https://www.myntra.com/women-watches",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc57e"
+  },
+  "text": "Bags",
+  "href": "https://www.myntra.com/bags",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc57f"
+  },
+  "text": "Sport Shoes",
+  "href": "https://www.myntra.com/sports-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc580"
+  },
+  "text": "Reebok Shoes",
+  "href": "https://www.myntra.com/reebok-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc581"
+  },
+  "text": "Puma Shoes",
+  "href": "https://www.myntra.com/puma-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc582"
+  },
+  "text": "Boxers",
+  "href": "https://www.myntra.com/men-boxers",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc583"
+  },
+  "text": "Wallets",
+  "href": "https://www.myntra.com/wallets",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc584"
+  },
+  "text": "Tops",
+  "href": "https://www.myntra.com/women-shirts-tops-tees",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc585"
+  },
+  "text": "Earrings",
+  "href": "https://www.myntra.com/earrings",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc586"
+  },
+  "text": "Fastrack Watches",
+  "href": "https://www.myntra.com/fastrack-watches",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc587"
+  },
+  "text": "Kurtis",
+  "href": "https://www.myntra.com/women-kurtas-kurtis-suits",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc588"
+  },
+  "text": "Nike",
+  "href": "https://www.myntra.com/nike",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc589"
+  },
+  "text": "Smart Watches",
+  "href": "https://www.myntra.com/smart-watches",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc58a"
+  },
+  "text": "Titan Watches",
+  "href": "https://www.myntra.com/titan-watches",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc58b"
+  },
+  "text": "Designer Blouse",
+  "href": "https://www.myntra.com/saree-blouse",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc58c"
+  },
+  "text": "Gowns",
+  "href": "https://www.myntra.com/gown",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc58d"
+  },
+  "text": "Rings",
+  "href": "https://www.myntra.com/rings",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc58e"
+  },
+  "text": "Cricket Shoes",
+  "href": "https://www.myntra.com/cricket-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc58f"
+  },
+  "text": "Forever 21",
+  "href": "https://www.myntra.com/forever-21",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc590"
+  },
+  "text": "Eye Makeup",
+  "href": "https://www.myntra.com/eye-makeup",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc591"
+  },
+  "text": "Photo Frames",
+  "href": "https://www.myntra.com/photo-frames",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc592"
+  },
+  "text": "Punjabi Suits",
+  "href": "https://www.myntra.com/punjabi-suits",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc593"
+  },
+  "text": "Bikini",
+  "href": "https://www.myntra.com/bikini",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc594"
+  },
+  "text": "Myntra Fashion Show",
+  "href": "https://www.myntra.com/shop/myntra-fashion-superstar",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc595"
+  },
+  "text": "Lipstick",
+  "href": "https://www.myntra.com/lipstick",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc596"
+  },
+  "text": "Saree",
+  "href": "https://www.myntra.com/saree",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc597"
+  },
+  "text": "Watches",
+  "href": "https://www.myntra.com/watches",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc598"
+  },
+  "text": "Dresses",
+  "href": "https://www.myntra.com/dresses",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc599"
+  },
+  "text": "Lehenga",
+  "href": "https://www.myntra.com/lehengas",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc59a"
+  },
+  "text": "Nike Shoes",
+  "href": "https://www.myntra.com/nike-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc59b"
+  },
+  "text": "Goggles",
+  "href": "https://www.myntra.com/goggles",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc59c"
+  },
+  "text": "Bras",
+  "href": "https://www.myntra.com/bra",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc59d"
+  },
+  "text": "Suit",
+  "href": "https://www.myntra.com/men-suits",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc59e"
+  },
+  "text": "Chinos",
+  "href": "https://www.myntra.com/chinos",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc59f"
+  },
+  "text": "Shoes",
+  "href": "https://www.myntra.com/shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5a0"
+  },
+  "text": "Adidas Shoes",
+  "href": "https://www.myntra.com/adidas-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5a1"
+  },
+  "text": "Woodland Shoes",
+  "href": "https://www.myntra.com/woodland-shoes",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5a2"
+  },
+  "text": "Jewellery",
+  "href": "https://www.myntra.com/jewellery",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5a3"
+  },
+  "text": "Designers Sarees",
+  "href": "https://www.myntra.com/designer-saree",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5a4"
+  },
+  "text": "Contact Us",
+  "href": "https://www.myntra.com/contactus",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5a5"
+  },
+  "text": "A Flipkart company",
+  "href": "https://www.flipkart.com/",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5a6"
+  },
+  "text": "080‑40011450",
+  "href": "tel:080%E2%80%9140011450",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5a7"
+  },
+  "text": "clothing",
+  "href": "https://www.myntra.com/clothing",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5a8"
+  },
+  "text": "Online shopping for women",
+  "href": "https://www.myntra.com/shop/women",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5a9"
+  },
+  "text": "sarees",
+  "href": "https://www.myntra.com/saree",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5aa"
+  },
+  "text": "photo frames",
+  "href": "https://www.myntra.com/photo-frames",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5ab"
+  },
+  "text": "Myntra Insider",
+  "href": "https://www.myntra.com/myntrainsider",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5ac"
+  },
+  "text": "Myntra Studio",
+  "href": "https://www.myntra.com/studio/home",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5ad"
+  },
+  "text": "Android",
+  "href": "https://play.google.com/store/apps/details?id=com.myntra.android",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5ae"
+  },
+  "text": "IOS",
+  "href": "https://itunes.apple.com/in/app/myntra-indias-fashion-store/id907394059",
+  "source": "myntra-homepage"
+},
+{
+  "_id": {
+    "$oid": "69cf6dde930deb9f626fc5af"
+  },
+  "text": "gifts",
+  "href": "https://www.myntra.com/gifts",
+  "source": "myntra-homepage"
+}]

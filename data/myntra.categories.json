@@ -1,0 +1,596 @@
+[{
+  "_id": {
+    "$oid": "69cf71ca545e898866ab7327"
+  },
+  "category": "men",
+  "subcategories": [
+    {
+      "name": "Topwear",
+      "url": "https://www.myntra.com/men-topwear"
+    },
+    {
+      "name": "T-Shirts",
+      "url": "https://www.myntra.com/men-tshirts"
+    },
+    {
+      "name": "Casual Shirts",
+      "url": "https://www.myntra.com/men-casual-shirts"
+    },
+    {
+      "name": "Formal Shirts",
+      "url": "https://www.myntra.com/men-formal-shirts"
+    },
+    {
+      "name": "Sweatshirts",
+      "url": "https://www.myntra.com/men-sweatshirts"
+    },
+    {
+      "name": "Sweaters",
+      "url": "https://www.myntra.com/men-sweaters"
+    },
+    {
+      "name": "Jackets",
+      "url": "https://www.myntra.com/men-jackets"
+    },
+    {
+      "name": "Blazers For Men",
+      "url": "https://www.myntra.com/men-blazers"
+    },
+    {
+      "name": "Suit",
+      "url": "https://www.myntra.com/men-suits"
+    },
+    {
+      "name": "Indian & Festive Wear",
+      "url": "https://www.myntra.com/men-ethnic-wear"
+    },
+    {
+      "name": "Kurtas & Kurta Sets",
+      "url": "https://www.myntra.com/men-kurtas"
+    },
+    {
+      "name": "Bottomwear",
+      "url": "https://www.myntra.com/men-bottomwear"
+    },
+    {
+      "name": "Jeans",
+      "url": "https://www.myntra.com/men-jeans"
+    },
+    {
+      "name": "Casual Trousers",
+      "url": "https://www.myntra.com/men-casual-trousers"
+    },
+    {
+      "name": "Formal Trousers",
+      "url": "https://www.myntra.com/men-formal-trousers"
+    },
+    {
+      "name": "Shorts",
+      "url": "https://www.myntra.com/mens-shorts"
+    },
+    {
+      "name": "Track Pants & Joggers",
+      "url": "https://www.myntra.com/men-trackpants"
+    },
+    {
+      "name": "Innerwear & Sleepwear",
+      "url": "https://www.myntra.com/men-innerwear"
+    },
+    {
+      "name": "Briefs & Trunks",
+      "url": "https://www.myntra.com/men-briefs-and-trunks"
+    },
+    {
+      "name": "Boxers",
+      "url": "https://www.myntra.com/men-boxers"
+    },
+    {
+      "name": "Vests",
+      "url": "https://www.myntra.com/men-innerwear-vests"
+    },
+    {
+      "name": "Sleepwear & Loungewear",
+      "url": "https://www.myntra.com/men-nightwear"
+    },
+    {
+      "name": "Thermals",
+      "url": "https://www.myntra.com/men-thermals"
+    },
+    {
+      "name": "Footwear",
+      "url": "https://www.myntra.com/men-footwear"
+    },
+    {
+      "name": "Casual Shoes",
+      "url": "https://www.myntra.com/men-casual-shoes"
+    },
+    {
+      "name": "Sports Shoes",
+      "url": "https://www.myntra.com/men-sports-shoes"
+    },
+    {
+      "name": "Formal Shoes",
+      "url": "https://www.myntra.com/men-formal-shoes"
+    },
+    {
+      "name": "Sneakers",
+      "url": "https://www.myntra.com/men-sneakers"
+    },
+    {
+      "name": "Sandals & Floaters",
+      "url": "https://www.myntra.com/men-sandals"
+    },
+    {
+      "name": "Flip Flops",
+      "url": "https://www.myntra.com/men-flip-flops"
+    },
+    {
+      "name": "Socks",
+      "url": "https://www.myntra.com/men-socks"
+    },
+    {
+      "name": "Personal Care & Grooming",
+      "url": "https://www.myntra.com/men-personal-care"
+    },
+    {
+      "name": "Sunglasses & Frames",
+      "url": "https://www.myntra.com/men-sunglasses"
+    },
+    {
+      "name": "Watches",
+      "url": "https://www.myntra.com/mens-watches"
+    },
+    {
+      "name": "Sports & Active Wear",
+      "url": "https://www.myntra.com/men-sports-wear"
+    },
+    {
+      "name": "Sports Sandals",
+      "url": "https://www.myntra.com/men-sports-sandals"
+    },
+    {
+      "name": "Active T-Shirts",
+      "url": "https://www.myntra.com/men-sports-wear-tshirts"
+    },
+    {
+      "name": "Track Pants & Shorts",
+      "url": "https://www.myntra.com/men-trackpants-shorts"
+    },
+    {
+      "name": "Tracksuits",
+      "url": "https://www.myntra.com/men-tracksuits"
+    },
+    {
+      "name": "Jackets & Sweatshirts",
+      "url": "https://www.myntra.com/men-sports-jackets"
+    },
+    {
+      "name": "Sports Accessories",
+      "url": "https://www.myntra.com/men-sports-accessories"
+    },
+    {
+      "name": "Swimwear",
+      "url": "https://www.myntra.com/men-swimwear"
+    },
+    {
+      "name": "Fashion Accessories",
+      "url": "https://www.myntra.com/men-accessories"
+    },
+    {
+      "name": "Wallets",
+      "url": "https://www.myntra.com/men-wallets"
+    },
+    {
+      "name": "Belts",
+      "url": "https://www.myntra.com/men-belts"
+    },
+    {
+      "name": "Ties, Cufflinks & Pocket Squares",
+      "url": "https://www.myntra.com/men-belts-ties"
+    },
+    {
+      "name": "Accessory Gift Sets",
+      "url": "https://www.myntra.com/men-accessory-gift-set"
+    },
+    {
+      "name": "Caps & Hats",
+      "url": "https://www.myntra.com/men-caps"
+    },
+    {
+      "name": "Mufflers, Scarves & Gloves",
+      "url": "https://www.myntra.com/men-gloves-mufflers-scarves"
+    },
+    {
+      "name": "Rings & Wristwear",
+      "url": "https://www.myntra.com/men-jewellery"
+    },
+    {
+      "name": "Bags & Backpacks",
+      "url": "https://www.myntra.com/men-bags-backpacks"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69cf71ca545e898866ab7328"
+  },
+  "category": "women",
+  "subcategories": [
+    {
+      "name": "Kurtis",
+      "url": "https://www.myntra.com/women-kurtas-kurtis-suits"
+    },
+    {
+      "name": "Ethnic Wear",
+      "url": "https://www.myntra.com/women-ethnic-wear"
+    },
+    {
+      "name": "Leggings, Salwars & Churidars",
+      "url": "https://www.myntra.com/women-ethnic-bottomwear?f=categories%3AChuridar%2CLeggings%2CSalwar"
+    },
+    {
+      "name": "Jackets",
+      "url": "https://www.myntra.com/women-jackets"
+    },
+    {
+      "name": "Belts, Scarves & More",
+      "url": "https://www.myntra.com/women-accessories"
+    },
+    {
+      "name": "Ladies Watches",
+      "url": "https://www.myntra.com/women-watches"
+    },
+    {
+      "name": "Western Wear",
+      "url": "https://www.myntra.com/womens-western-wear"
+    },
+    {
+      "name": "Jeans",
+      "url": "https://www.myntra.com/women-jeans"
+    },
+    {
+      "name": "Trousers & Capris",
+      "url": "https://www.myntra.com/women-trousers"
+    },
+    {
+      "name": "Shorts & Skirts",
+      "url": "https://www.myntra.com/women-shorts-skirts"
+    },
+    {
+      "name": "Shrugs",
+      "url": "https://www.myntra.com/women-shrugs"
+    },
+    {
+      "name": "Sweaters & Sweatshirts",
+      "url": "https://www.myntra.com/women-sweaters-sweatshirts"
+    },
+    {
+      "name": "Jackets & Coats",
+      "url": "https://www.myntra.com/women-jackets-coats"
+    },
+    {
+      "name": "Blazers & Waistcoats",
+      "url": "https://www.myntra.com/women-blazers-waistcoats"
+    },
+    {
+      "name": "Sunglasses & Frames",
+      "url": "https://www.myntra.com/women-sunglasses"
+    },
+    {
+      "name": "Footwear",
+      "url": "https://www.myntra.com/women-footwear"
+    },
+    {
+      "name": "Casual Shoes",
+      "url": "https://www.myntra.com/women-casual-shoes"
+    },
+    {
+      "name": "Heels",
+      "url": "https://www.myntra.com/women-heels"
+    },
+    {
+      "name": "Boots",
+      "url": "https://www.myntra.com/women-boots-menu"
+    },
+    {
+      "name": "Footwear",
+      "url": "https://www.myntra.com/women-sports-shoes"
+    },
+    {
+      "name": "Sports & Active Wear",
+      "url": "https://www.myntra.com/women-sportswear"
+    },
+    {
+      "name": "Clothing",
+      "url": "https://www.myntra.com/women-sportswear-clothing"
+    },
+    {
+      "name": "Sports Accessories",
+      "url": "https://www.myntra.com/women-sports-accessories"
+    },
+    {
+      "name": "Sports Equipment",
+      "url": "https://www.myntra.com/women-sports-equipments"
+    },
+    {
+      "name": "Briefs",
+      "url": "https://www.myntra.com/women-briefs"
+    },
+    {
+      "name": "Shapewear",
+      "url": "https://www.myntra.com/women-clothing-shapewear"
+    },
+    {
+      "name": "Sleepwear & Loungewear",
+      "url": "https://www.myntra.com/women-loungewear-and-nightwear"
+    },
+    {
+      "name": "Swimwear",
+      "url": "https://www.myntra.com/women-swimwear"
+    },
+    {
+      "name": "Beauty & Personal Care",
+      "url": "https://www.myntra.com/women-personal-care"
+    },
+    {
+      "name": "Premium Beauty",
+      "url": "https://www.myntra.com/women-personal-care?f=brand%3ABobbi%20Brown%2CBvlgari%2CCalvin%20Klein%2CClinique%2CDAVIDOFF%2CDermalogica%2CForest%20Essentials%2CKAMA%20AYURVEDA%2CSalvatore%20Ferragamo"
+    },
+    {
+      "name": "Fragrances",
+      "url": "https://www.myntra.com/women-perfumes"
+    },
+    {
+      "name": "Jewellery",
+      "url": "https://www.myntra.com/women-jewellery"
+    },
+    {
+      "name": "Tops",
+      "url": "https://www.myntra.com/women-shirts-tops-tees"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69cf71ca545e898866ab7329"
+  },
+  "category": "kids",
+  "subcategories": [
+    {
+      "name": "Footwear",
+      "url": "https://www.myntra.com/kids-footwear"
+    },
+    {
+      "name": "Casual Shoes",
+      "url": "https://www.myntra.com/kids-footwear?f=Categories%3ACasual%20Shoes&plaEnabled=false"
+    },
+    {
+      "name": "Flipflops",
+      "url": "https://www.myntra.com/kids-footwear?f=Categories%3AFlip%20Flops&plaEnabled=false"
+    },
+    {
+      "name": "Sports Shoes",
+      "url": "https://www.myntra.com/kids-footwear?f=Categories%3ASports%20Shoes&plaEnabled=false"
+    },
+    {
+      "name": "Flats",
+      "url": "https://www.myntra.com/kids-footwear?f=Categories%3AFlats&plaEnabled=false"
+    },
+    {
+      "name": "Sandals",
+      "url": "https://www.myntra.com/kids-footwear?f=Categories%3ASandals%2CSports%20Sandals&plaEnabled=false"
+    },
+    {
+      "name": "Heels",
+      "url": "https://www.myntra.com/kids-footwear?f=Categories%3AHeels&plaEnabled=false"
+    },
+    {
+      "name": "Socks",
+      "url": "https://www.myntra.com/kids?f=Categories%3ABooties%2CSocks&plaEnabled=false"
+    },
+    {
+      "name": "Bodysuits",
+      "url": "https://www.myntra.com/kids?f=Categories%3ABodysuit&plaEnabled=false"
+    },
+    {
+      "name": "Rompers & Sleepsuits",
+      "url": "https://www.myntra.com/kids?f=Categories%3ARompers%2CSleepsuit&plaEnabled=false"
+    },
+    {
+      "name": "Clothing Sets",
+      "url": "https://www.myntra.com/kids?f=Age%3A0M-3M%2C12M-18M%2C18M-24M%2C3M-6M%2C6M-9M%2C9M-12M%2CNewborn%3A%3ACategories%3AClothing%20Set&plaEnabled=false"
+    },
+    {
+      "name": "Tshirts & Tops",
+      "url": "https://www.myntra.com/kids?f=Age%3A0M-3M%2C12M-18M%2C18M-24M%2C3M-6M%2C6M-9M%2C9M-12M%2CNewborn%3A%3ACategories%3ATops%2CTshirts&plaEnabled=false"
+    },
+    {
+      "name": "Dresses",
+      "url": "https://www.myntra.com/kids?f=Age%3A0M-3M%2C12M-18M%2C18M-24M%2C3M-6M%2C6M-9M%2C9M-12M%2CNewborn%3A%3ACategories%3ADresses&plaEnabled=false"
+    },
+    {
+      "name": "Bottom wear",
+      "url": "https://www.myntra.com/kids?f=Age%3A0M-3M%2C12M-18M%2C18M-24M%2C3M-6M%2C6M-9M%2C9M-12M%2CNewborn%3A%3ACategories%3ACapris%2CJeans%2CJeggings%2CLeggings%2CLounge%20Pants%2CLounge%20Shorts%2CPyjamas%2CShorts%2CSkirts%2CTights%2CTrack%20Pants%2CTrousers&plaEnabled=false"
+    },
+    {
+      "name": "Infant Care",
+      "url": "https://www.myntra.com/kids?f=Categories%3ABaby%20Apparel%20Gift%20Set%2CBaby%20Care%20Products%2CBaby%20Gear%20%26%20Nursery%2CBibs%2CDiaper%20Bags%2CMittens%2CNapkin%20Set&plaEnabled=false"
+    },
+    {
+      "name": "Home & Bath",
+      "url": "https://www.myntra.com/kids-home-bath"
+    },
+    {
+      "name": "Personal Care",
+      "url": "https://www.myntra.com/kids?f=Categories%3ABaby%20Care%20Products%2CBath%20and%20Body%20Gift%20Set%2CBathroom%20Accessories%2CBody%20Lotion%2CBody%20Oil%2CBody%20Wash%20and%20Scrub%2CDeodorant%2CFace%20Wash%20and%20Cleanser%2CHair%20Brush%20and%20Comb%2CHair%20Oil%2CShampoo%20and%20Conditioner%2CSunscreen%2CTissues%20and%20Wipes%2CToiletry%20Kit&plaEnabled=false"
+    },
+    {
+      "name": "Kids Accessories",
+      "url": "https://www.myntra.com/kids-accessories"
+    },
+    {
+      "name": "Bags & Backpacks",
+      "url": "https://www.myntra.com/kids?f=Categories%3ABackpacks%2CSchool%20Essentials%2CStationery%2CWater%20Bottle&plaEnabled=false"
+    },
+    {
+      "name": "Watches",
+      "url": "https://www.myntra.com/kids?f=Categories%3AWatch%20Gift%20Set%2CWatches&plaEnabled=false"
+    },
+    {
+      "name": "Jewellery & Hair accessory",
+      "url": "https://www.myntra.com/kids?f=Categories%3AHair%20Accessory%2CHair%20Brush%20and%20Comb%2CJewellery%20Set%2CNecklace%20and%20Chains&plaEnabled=false"
+    },
+    {
+      "name": "Sunglasses",
+      "url": "https://www.myntra.com/kids?f=Categories%3ASunglasses&plaEnabled=false"
+    },
+    {
+      "name": "Masks & Protective Gears",
+      "url": "https://www.myntra.com/kids?f=Categories%3AOutdoor%20Masks&plaEnabled=false"
+    },
+    {
+      "name": "Caps & Hats",
+      "url": "https://www.myntra.com/kids?f=Categories%3ACaps%2CHat&plaEnabled=false"
+    },
+    {
+      "name": "Brands",
+      "url": "https://www.myntra.com/kids"
+    },
+    {
+      "name": "H&M",
+      "url": "https://www.myntra.com/kids?f=Brand%3AH%26M&plaEnabled=false"
+    },
+    {
+      "name": "Max Kids",
+      "url": "https://www.myntra.com/kids?f=Brand%3Amax&plaEnabled=false"
+    },
+    {
+      "name": "Pantaloons",
+      "url": "https://www.myntra.com/kids?f=Brand%3AAKKRITI%20BY%20PANTALOONS%2CAjile%20by%20Pantaloons%2CCHALK%20by%20Pantaloons%2CChirpie%20Pie%20by%20Pantaloons%2CPOPPERS%20by%20Pantaloons%2CPantaloons%20Baby%2CPantaloons%20Junior%2Cindus%20route%20by%20Pantaloons&plaEnabled=false"
+    },
+    {
+      "name": "United Colors Of Benetton Kids",
+      "url": "https://www.myntra.com/kids?f=Brand%3AUnited%20Colors%20of%20Benetton&plaEnabled=false"
+    },
+    {
+      "name": "YK",
+      "url": "https://www.myntra.com/kids?f=Brand%3AYK%2CYK%20Basics%2CYK%20Disney%2CYK%20Justice%20League%2CYK%20Marvel%2CYK%20Organic%2CYK%20Star%20Wars&plaEnabled=false"
+    },
+    {
+      "name": "U.S. Polo Assn. Kids",
+      "url": "https://www.myntra.com/kids?f=Brand%3AU.S.%20Polo%20Assn.%2CU.S.%20Polo%20Assn.%20Kids&plaEnabled=false"
+    },
+    {
+      "name": "Mothercare",
+      "url": "https://www.myntra.com/kids?f=Brand%3Amothercare&plaEnabled=false"
+    },
+    {
+      "name": "HRX",
+      "url": "https://www.myntra.com/kids?f=Brand%3AHRX%20by%20Hrithik%20Roshan&plaEnabled=false"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69cf71ca545e898866ab732a"
+  },
+  "category": "home",
+  "subcategories": [
+    {
+      "name": "Bed Runners",
+      "url": "https://www.myntra.com/home-furnishing?f=Categories%3ARunners%3A%3AType%3ABed"
+    },
+    {
+      "name": "Mattress Protectors",
+      "url": "https://www.myntra.com/home-furnishing-menu?f=Categories%3AMattress%20Protector"
+    },
+    {
+      "name": "Chair Pads & Covers",
+      "url": "https://www.myntra.com/home-furnishing?f=Categories%3AChair%20Cover%2CChair%20Pads"
+    },
+    {
+      "name": "Floor Runners",
+      "url": "https://www.myntra.com/home-furnishing?f=Categories%3ARunners%3A%3AType%3AFloor"
+    },
+    {
+      "name": "Bath",
+      "url": "https://www.myntra.com/home-furnishing-menu?f=Categories%3ABath%20Robe%2CBath%20Rugs%2CBath%20Towels%2CBathroom%20Accessories%2CBeach%20Towels%2CFace%20Towels%2CHand%20Towels%2CShower%20Curtains%2CTowel%20Set"
+    },
+    {
+      "name": "Shower Curtains",
+      "url": "https://www.myntra.com/home-furnishing-menu?f=Categories%3AShower%20Curtains"
+    },
+    {
+      "name": "Home Décor",
+      "url": "https://www.myntra.com/home-furnishing?f=Categories%3AAir%20Freshener%2CAroma%20Oils%2CArtificial%20Flowers%20and%20Plants%2CBins%2CCandle%20Holders%2CCandles%2CCeiling%20Lamps%2CClocks%2CDecals%20and%20Stickers%2CDecorative%20Bowls%2CDecorative%20Magnets%2CFestive%20Decor%2CFloor%20Lamps%2CFountains%2CGarden%20Accessories%2CHandheld%20Air%20Fresheners%2CHome%20Fragrance%20Set%2CHome%20Fragrances%2CKey%20Holders%2CLaptop%20Table%2CMirrors%2COutdoor%20Lamps%2CPhoto%20Albums%2CPhoto%20Frames%2CPlanters%2CPooja%20Essentials%2CPotpourri%2CShowpieces%2CString%20Lights%2CVase%20Fillers%2CVases%2CWall%20Art%2CWall%20Decor%2CWall%20Lamps%2CWall%20Shelves%2CWater%20Bottle%2CWindchimes"
+    },
+    {
+      "name": "Plants & Planters",
+      "url": "https://www.myntra.com/home-furnishing?f=Categories%3AArtificial%20Flowers%20and%20Plants%2CGarden%20Accessories%2CPlanters"
+    },
+    {
+      "name": "Festive Decor",
+      "url": "https://www.myntra.com/home-furnishing?f=Categories%3AFestive%20Decor"
+    },
+    {
+      "name": "Pooja Essentials",
+      "url": "https://www.myntra.com/home-furnishing?f=Categories%3AFestive%20Decor%2CPooja%20Essentials"
+    },
+    {
+      "name": "Showpieces & Vases",
+      "url": "https://www.myntra.com/home-decor-showpieces-vases"
+    },
+    {
+      "name": "Home Gift Sets",
+      "url": "https://www.myntra.com/homegiftsets"
+    },
+    {
+      "name": "Kitchen & Table",
+      "url": "https://www.myntra.com/home-furnishing?f=Categories%3AAppliance%20covers%2CAprons%2CBakeware%2CBar%20Accessories%2CBar%20and%20Drinkware%2CCoasters%2CCookware%2CCups%20and%20Mugs%2CCutlery%2CDining%20Essentials%2CDinnerware%2CKitchen%20Gloves%2CKitchen%20Linen%20Sets%2CKitchen%20Storage%2CKitchen%20Tools%2CKitchen%20Towels%2COven%20Glove%2CServeware%2CTable%20Cloth%2CTable%20Covers%2CTable%20Linen%20Sets%2CTable%20Napkins%2CTable%20Placemats%2CTowel%20Set%2CTrays%2CWater%20Bottle"
+    },
+    {
+      "name": "Table Runners",
+      "url": "https://www.myntra.com/home-furnishing?f=Categories%3ARunners%3A%3AType%3ATable"
+    },
+    {
+      "name": "Dinnerware & Serveware",
+      "url": "https://www.myntra.com/home-furnishing?f=Categories%3ACutlery%2CDining%20Essentials%2CDinnerware%2CServeware%2CTrays%2CWater%20Bottle"
+    },
+    {
+      "name": "Storage",
+      "url": "https://www.myntra.com/home-furnishing-menu?f=Categories%3ABins%2CHanger%2CHooks%20and%20Holders%2CLaundry%20Bag%2COrganisers"
+    },
+    {
+      "name": "Bins",
+      "url": "https://www.myntra.com/home-furnishing?f=Categories%3ABins"
+    },
+    {
+      "name": "Hangers",
+      "url": "https://www.myntra.com/home-furnishing?f=Categories%3AHanger"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69cf71ca545e898866ab732b"
+  },
+  "category": "beauty",
+  "subcategories": [
+    {
+      "name": "Skincare, Bath & Body",
+      "url": "https://www.myntra.com/beauty-page-skincare-bath-body"
+    },
+    {
+      "name": "Appliances",
+      "url": "https://www.myntra.com/beauty-page-appliances"
+    },
+    {
+      "name": "Beauty Gift",
+      "url": "https://www.myntra.com/beauty-gift-set"
+    },
+    {
+      "name": "Premium Beauty",
+      "url": "https://www.myntra.com/beauty-page-premium"
+    }
+  ]
+}]
